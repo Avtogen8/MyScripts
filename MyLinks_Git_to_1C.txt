@@ -1,0 +1,2 @@
+﻿https://infostart.ru/public/691382/ - Интересная статья по использованию GIT и 1С
+https://github.com/oscript-library - библиотека скиптов для 1С
